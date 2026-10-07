@@ -33,7 +33,7 @@ Development Tools	Git, GitHub, npm, Visual Studio Code
 
 The frontend dependencies include React, React DOM, React Router, Axios, Vite, and the Vite React plugin. The backend uses Express, Mongoose, OpenAI, JSON Web Tokens, bcryptjs, CORS, dotenv, and Nodemon. GitHub
 4. System Architecture
-                         Student / Administrator
+                          Student / Administrator
                                   |
                                   v
                     +---------------------------+
