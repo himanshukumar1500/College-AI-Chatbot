@@ -863,14 +863,13 @@ Add your preferred license here if the project is being distributed publicly.
 
 # 👨‍💻 Author
 
-**College AI Chatbot**
+**Himanshu Kumar**
 
-Built using:
+- GitHub: [@himanshukumar1500](https://github.com/himanshukumar1500)
+- Project: [College AI Chatbot](https://github.com/himanshukumar1500/College-AI-Chatbot)
 
-**React + Node.js + Express + MongoDB + OpenAI**
-
+Built using **React, Node.js, Express, MongoDB, and OpenAI**.
 ---
-
 ## ⭐ Project Summary
 
 The College AI Chatbot provides students with a centralized conversational interface for accessing college-related information. It combines a structured college knowledge base with OpenAI to provide natural-language responses while restricting official answers to information available in the college database.
